@@ -2,9 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
+    
+    Adi adi@git.training @awesomejt
+    
 # THANKS
 
     <name>
